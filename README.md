@@ -45,7 +45,7 @@ The code trains a neural network to recognize handwritten digits, achieving an a
 ## Contributing 🤝
 If you want to contribute or have suggestions for improvement, please create a pull request or open an issue.
 
-33 License 📜
+## License 📜
 This project is open-source and available under the MIT License.
 
 Feel free to replace `yourusername` with your actual GitHub username and adapt any other details to fit your specific project. This creative README can be added to your repository as the `README.md` file.
